@@ -63,7 +63,7 @@ dependencies {
 	implementation("org.webjars.npm:bootstrap:4.4.1")
 	implementation("org.webjars.npm:htmx.org:1.9.4")
 	implementation("org.webjars.npm:shoelace-style__shoelace:2.8.0")
-	implementation("org.webjars.npm:hyperscript.org:0.9.11")
+	implementation("org.webjars.npm:hyperscript.org:0.9.12")
 
 	testImplementation("com.github.writethemfirst:approvals-java:0.12.0")
 	testImplementation("com.approvaltests:approvaltests:18.0.0")
