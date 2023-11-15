@@ -50,7 +50,7 @@ dependencies {
 	implementation("org.tomitribe:tomitribe-http-signatures:1.8")
 	implementation("io.github.resilience4j:resilience4j-spring-boot3:2.0.2")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1")
-	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.3.5")
+	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.3.6")
 	implementation("org.postgresql:postgresql:42.6.0")
 	implementation("org.apache.commons:commons-csv:1.10.0")
 	implementation("info.faljse:SDNotify:1.3")
