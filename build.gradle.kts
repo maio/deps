@@ -47,7 +47,7 @@ dependencies {
 	implementation("org.apache.commons:commons-compress:1.24.0")
 	implementation("com.github.ua-parser:uap-java:1.5.2")
 	implementation("net.gcardone.junidecode:junidecode:0.4.1")
-	implementation("org.tomitribe:tomitribe-http-signatures:1.5")
+	implementation("org.tomitribe:tomitribe-http-signatures:1.8")
 	implementation("io.github.resilience4j:resilience4j-spring-boot3:2.0.2")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1")
 	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.3.5")
