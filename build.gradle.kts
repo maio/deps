@@ -38,7 +38,7 @@ dependencies {
 	runtimeOnly("com.h2database:h2")
 
 
-	implementation("net.sf.j8583:j8583:1.14.1")
+	implementation("net.sf.j8583:j8583:2.0.0")
 	implementation("org.jobrunr:jobrunr-spring-boot-3-starter:6.2.3")
 	implementation("org.apache.poi:poi:5.2.2")
 	implementation("org.apache.poi:poi-ooxml:5.2.2")
