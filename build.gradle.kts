@@ -44,7 +44,7 @@ dependencies {
 	implementation("org.apache.poi:poi-ooxml:5.2.2")
 	implementation("com.jcraft:jsch:0.1.55")
 	implementation("org.bouncycastle:bcpg-jdk15to18:1.75")
-	implementation("org.apache.commons:commons-compress:1.24.0")
+	implementation("org.apache.commons:commons-compress:1.25.0")
 	implementation("com.github.ua-parser:uap-java:1.5.2")
 	implementation("net.gcardone.junidecode:junidecode:0.4.1")
 	implementation("org.tomitribe:tomitribe-http-signatures:1.8")
