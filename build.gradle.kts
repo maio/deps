@@ -55,7 +55,7 @@ dependencies {
 	implementation("org.apache.commons:commons-csv:1.10.0")
 	implementation("info.faljse:SDNotify:1.3")
 	implementation("net.javacrumbs.shedlock:shedlock-spring:4.12.0")
-	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:4.12.0")
+	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:5.10.0")
 	implementation("org.ehcache:ehcache:3.10.0")
 
 	implementation("org.webjars.npm:jquery:3.5.1")
