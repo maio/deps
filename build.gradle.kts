@@ -54,7 +54,7 @@ dependencies {
 	implementation("org.postgresql:postgresql:42.6.0")
 	implementation("org.apache.commons:commons-csv:1.10.0")
 	implementation("info.faljse:SDNotify:1.5")
-	implementation("net.javacrumbs.shedlock:shedlock-spring:4.12.0")
+	implementation("net.javacrumbs.shedlock:shedlock-spring:5.10.0")
 	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:5.10.0")
 	implementation("org.ehcache:ehcache:3.10.0")
 
