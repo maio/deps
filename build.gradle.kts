@@ -40,8 +40,8 @@ dependencies {
 
 	implementation("net.sf.j8583:j8583:2.0.0")
 	implementation("org.jobrunr:jobrunr-spring-boot-3-starter:6.2.3")
-	implementation("org.apache.poi:poi:5.2.2")
-	implementation("org.apache.poi:poi-ooxml:5.2.2")
+	implementation("org.apache.poi:poi:5.2.4")
+	implementation("org.apache.poi:poi-ooxml:5.2.4")
 	implementation("com.jcraft:jsch:0.1.55")
 	implementation("org.bouncycastle:bcpg-jdk15to18:1.75")
 	implementation("org.apache.commons:commons-compress:1.25.0")
