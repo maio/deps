@@ -69,7 +69,7 @@ dependencies {
 	testImplementation("com.approvaltests:approvaltests:18.0.0")
 	testImplementation("io.cucumber:cucumber-java:7.4.1")
 	testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
-	testImplementation("net.jadler:jadler-core:1.3.0")
+	testImplementation("net.jadler:jadler-core:1.3.1")
 	testImplementation("net.jadler:jadler-jdk:1.3.0")
 	testImplementation("net.javacrumbs.json-unit:json-unit:2.18.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
