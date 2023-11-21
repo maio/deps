@@ -43,7 +43,7 @@ dependencies {
 	implementation("org.apache.poi:poi:5.2.4")
 	implementation("org.apache.poi:poi-ooxml:5.2.4")
 	implementation("com.jcraft:jsch:0.1.55")
-	implementation("org.bouncycastle:bcpg-jdk15to18:1.75")
+	implementation("org.bouncycastle:bcpg-jdk15to18:1.77")
 	implementation("org.apache.commons:commons-compress:1.25.0")
 	implementation("com.github.ua-parser:uap-java:1.5.4")
 	implementation("net.gcardone.junidecode:junidecode:0.4.1")
