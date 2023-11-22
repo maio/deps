@@ -56,7 +56,7 @@ dependencies {
 	implementation("info.faljse:SDNotify:1.5")
 	implementation("net.javacrumbs.shedlock:shedlock-spring:5.10.0")
 	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:5.10.0")
-	implementation("org.ehcache:ehcache:3.10.0")
+	implementation("org.ehcache:ehcache:3.10.8")
 
 	implementation("org.webjars.npm:jquery:3.7.1")
 	implementation("org.webjars.npm:d3:7.8.5")
