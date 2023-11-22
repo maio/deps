@@ -58,7 +58,7 @@ dependencies {
 	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:5.10.0")
 	implementation("org.ehcache:ehcache:3.10.0")
 
-	implementation("org.webjars.npm:jquery:3.5.1")
+	implementation("org.webjars.npm:jquery:3.7.1")
 	implementation("org.webjars.npm:d3:7.8.5")
 	implementation("org.webjars.npm:bootstrap:5.3.2")
 	implementation("org.webjars.npm:htmx.org:1.9.8")
