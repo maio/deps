@@ -61,7 +61,7 @@ dependencies {
 	implementation("org.webjars.npm:jquery:3.7.1")
 	implementation("org.webjars.npm:d3:7.8.5")
 	implementation("org.webjars.npm:bootstrap:5.3.2")
-	implementation("org.webjars.npm:htmx.org:1.9.8")
+	implementation("org.webjars.npm:htmx.org:1.9.9")
 	implementation("org.webjars.npm:shoelace-style__shoelace:2.11.2")
 	implementation("org.webjars.npm:hyperscript.org:0.9.12")
 
