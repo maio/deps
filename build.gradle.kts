@@ -45,7 +45,7 @@ dependencies {
 	implementation("com.jcraft:jsch:0.1.55")
 	implementation("org.bouncycastle:bcpg-jdk15to18:1.77")
 	implementation("org.apache.commons:commons-compress:1.25.0")
-	implementation("com.github.ua-parser:uap-java:1.5.4")
+	implementation("com.github.ua-parser:uap-java:1.6.1")
 	implementation("net.gcardone.junidecode:junidecode:0.4.1")
 	implementation("org.tomitribe:tomitribe-http-signatures:1.8")
 	implementation("io.github.resilience4j:resilience4j-spring-boot3:2.0.2")
