@@ -10,7 +10,7 @@ plugins {
 	id("org.springframework.boot") version "3.2.1"
 	id("io.spring.dependency-management") version "1.1.3"
 	kotlin("jvm") version "1.9.22"
-	kotlin("plugin.spring") version "1.9.21"
+	kotlin("plugin.spring") version "1.9.22"
 
 	id("org.owasp.dependencycheck") version "9.0.7"
 	id("com.gorylenko.gradle-git-properties") version "2.4.1"
