@@ -74,7 +74,7 @@ dependencies {
 	testImplementation("net.javacrumbs.json-unit:json-unit:3.2.2")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("com.microsoft.playwright:playwright:1.40.0")
-	testImplementation("org.jsoup:jsoup:1.17.1")
+	testImplementation("org.jsoup:jsoup:1.17.2")
 	testImplementation("com.github.stefanbirkner:fake-sftp-server-rule:2.0.1")
 	testImplementation("org.testcontainers:junit-jupiter:1.19.3")
 	testImplementation("net.jqwik:jqwik:1.8.2")
