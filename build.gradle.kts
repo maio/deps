@@ -77,7 +77,7 @@ dependencies {
 	testImplementation("com.microsoft.playwright:playwright:1.41.0")
 	testImplementation("org.jsoup:jsoup:1.17.2")
 	testImplementation("com.github.stefanbirkner:fake-sftp-server-rule:2.0.1")
-	testImplementation("org.testcontainers:junit-jupiter:1.19.3")
+	testImplementation("org.testcontainers:junit-jupiter:1.19.4")
 	testImplementation("net.jqwik:jqwik:1.8.2")
 }
 
