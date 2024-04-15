@@ -52,7 +52,7 @@ dependencies {
 	implementation("io.github.resilience4j:resilience4j-spring-boot3:2.2.0")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
 	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.3.7")
-	implementation("org.postgresql:postgresql:42.7.1")
+	implementation("org.postgresql:postgresql:42.7.3")
 	implementation("org.apache.commons:commons-csv:1.10.0")
 	implementation("info.faljse:SDNotify:1.5")
 	implementation("net.javacrumbs.shedlock:shedlock-spring:5.13.0")
