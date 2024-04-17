@@ -78,7 +78,7 @@ dependencies {
 	testImplementation("org.jsoup:jsoup:1.17.2")
 	testImplementation("com.github.stefanbirkner:fake-sftp-server-rule:2.0.1")
 	testImplementation("org.testcontainers:junit-jupiter:1.19.7")
-	testImplementation("net.jqwik:jqwik:1.8.2")
+	testImplementation("net.jqwik:jqwik:1.8.4")
 }
 
 tasks.withType<KotlinCompile> {
