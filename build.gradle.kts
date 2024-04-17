@@ -68,7 +68,7 @@ dependencies {
 
 	testImplementation("com.github.writethemfirst:approvals-java:0.12.0")
 	testImplementation("com.approvaltests:approvaltests:22.3.3")
-	testImplementation("io.cucumber:cucumber-java:7.15.0")
+	testImplementation("io.cucumber:cucumber-java:7.16.1")
 	testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
 	testImplementation("net.jadler:jadler-core:1.3.1")
 	testImplementation("net.jadler:jadler-jdk:1.3.1")
