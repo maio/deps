@@ -67,7 +67,7 @@ dependencies {
 	implementation("org.webjars.npm:hyperscript.org:0.9.12")
 
 	testImplementation("com.github.writethemfirst:approvals-java:0.12.0")
-	testImplementation("com.approvaltests:approvaltests:22.3.3")
+	testImplementation("com.approvaltests:approvaltests:23.1.0")
 	testImplementation("io.cucumber:cucumber-java:7.17.0")
 	testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
 	testImplementation("net.jadler:jadler-core:1.3.1")
