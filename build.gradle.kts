@@ -10,7 +10,7 @@ plugins {
 	id("org.siouan.frontend-jdk17") version "8.0.0" apply false
 	id("org.springframework.boot") version "3.2.5"
 	id("io.spring.dependency-management") version "1.1.3"
-	kotlin("jvm") version "1.9.23"
+	kotlin("jvm") version "1.9.24"
 	kotlin("plugin.spring") version "1.9.23"
 
 	id("org.owasp.dependencycheck") version "9.1.0"
