@@ -66,7 +66,7 @@ dependencies {
 	implementation("org.webjars.npm:shoelace-style__shoelace:2.15.1")
 	implementation("org.webjars.npm:hyperscript.org:0.9.12")
 
-	implementation("com.eventstore:db-client-java:5.4.0")
+	implementation("com.eventstore:db-client-java:5.4.1")
 
 	testImplementation("com.github.writethemfirst:approvals-java:0.12.0")
 	testImplementation("com.approvaltests:approvaltests:24.4.0")
