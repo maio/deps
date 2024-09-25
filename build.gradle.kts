@@ -53,7 +53,7 @@ dependencies {
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
 	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.3.8")
 	implementation("org.postgresql:postgresql:42.7.4")
-	implementation("org.apache.commons:commons-csv:1.11.0")
+	implementation("org.apache.commons:commons-csv:1.12.0")
 	implementation("info.faljse:SDNotify:1.5")
 	implementation("net.javacrumbs.shedlock:shedlock-spring:5.16.0")
 	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:5.16.0")
