@@ -13,7 +13,7 @@ plugins {
 	kotlin("jvm") version "2.0.21"
 	kotlin("plugin.spring") version "2.0.21"
 
-	id("org.owasp.dependencycheck") version "11.1.0"
+	id("org.owasp.dependencycheck") version "11.1.1"
 	id("com.gorylenko.gradle-git-properties") version "2.4.2"
 	id("com.google.cloud.tools.jib") version "3.4.4"
 }
