@@ -40,7 +40,7 @@ dependencies {
 
 
 	implementation("net.sf.j8583:j8583:2.0.0")
-	implementation("org.jobrunr:jobrunr-spring-boot-3-starter:7.3.2")
+	implementation("org.jobrunr:jobrunr-spring-boot-3-starter:7.4.1")
 	implementation("org.apache.poi:poi:5.3.0")
 	implementation("org.apache.poi:poi-ooxml:5.3.0")
 	implementation("com.jcraft:jsch:0.1.55")
