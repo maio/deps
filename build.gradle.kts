@@ -50,7 +50,7 @@ dependencies {
 	implementation("net.gcardone.junidecode:junidecode:0.5.2")
 	implementation("org.tomitribe:tomitribe-http-signatures:1.8")
 	implementation("io.github.resilience4j:resilience4j-spring-boot3:2.3.0")
-	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
+	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
 	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.3.8")
 	implementation("org.postgresql:postgresql:42.7.4")
 	implementation("org.apache.commons:commons-csv:1.14.1")
