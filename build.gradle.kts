@@ -11,7 +11,7 @@ plugins {
 	id("org.springframework.boot") version "3.5.3"
 	id("io.spring.dependency-management") version "1.1.7"
 	kotlin("jvm") version "2.2.0"
-	kotlin("plugin.spring") version "2.2.0"
+	kotlin("plugin.spring") version "2.2.20"
 
 	id("org.owasp.dependencycheck") version "12.1.3"
 	id("com.gorylenko.gradle-git-properties") version "2.5.2"
@@ -40,29 +40,30 @@ dependencies {
 
 
 	implementation("net.sf.j8583:j8583:2.0.0")
-	implementation("org.jobrunr:jobrunr-spring-boot-3-starter:8.0.1")
+	implementation("org.jobrunr:jobrunr-spring-boot-3-starter:8.1.0")
 	implementation("org.apache.poi:poi:5.3.0")
 	implementation("org.apache.poi:poi-ooxml:5.4.1")
 	implementation("com.jcraft:jsch:0.1.55")
 	implementation("org.bouncycastle:bcpg-jdk15to18:1.81")
-	implementation("org.apache.commons:commons-compress:1.27.1")
+	implementation("org.apache.commons:commons-compress:1.28.0")
 	implementation("com.github.ua-parser:uap-java:1.6.1")
 	implementation("net.gcardone.junidecode:junidecode:0.5.2")
 	implementation("org.tomitribe:tomitribe-http-signatures:1.8")
 	implementation("io.github.resilience4j:resilience4j-spring-boot3:2.3.0")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
 	implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable-jvm:0.4.0")
+	implementation("io.arrow-kt:arrow-core:1.2.4")
 	implementation("org.postgresql:postgresql:42.7.7")
 	implementation("org.apache.commons:commons-csv:1.14.1")
 	implementation("info.faljse:SDNotify:1.5")
-	implementation("net.javacrumbs.shedlock:shedlock-spring:6.9.2")
-	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:6.9.2")
-	implementation("org.ehcache:ehcache:3.10.8")
+	implementation("net.javacrumbs.shedlock:shedlock-spring:6.10.0")
+	implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:6.10.0")
+	implementation("org.ehcache:ehcache:3.11.1")
 
 	implementation("org.webjars.npm:jquery:3.7.1")
 	implementation("org.webjars.npm:d3:7.9.0")
 	implementation("org.webjars.npm:bootstrap:5.3.3")
-	implementation("org.webjars.npm:htmx.org:2.0.3")
+	implementation("org.webjars.npm:htmx.org:2.0.6")
 	implementation("org.webjars.npm:shoelace-style__shoelace:2.20.1")
 	implementation("org.webjars.npm:hyperscript.org:0.9.14")
 
@@ -77,7 +78,7 @@ dependencies {
 	testImplementation("net.javacrumbs.json-unit:json-unit:4.1.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("com.microsoft.playwright:playwright:1.54.0")
-	testImplementation("org.jsoup:jsoup:1.19.1")
+	testImplementation("org.jsoup:jsoup:1.21.2")
 	testImplementation("com.github.stefanbirkner:fake-sftp-server-rule:2.0.1")
 	testImplementation("org.testcontainers:junit-jupiter:1.20.6")
 	testImplementation("net.jqwik:jqwik:1.9.3")
