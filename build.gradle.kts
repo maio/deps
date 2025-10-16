@@ -77,7 +77,7 @@ dependencies {
 	testImplementation("net.jadler:jadler-jdk:1.3.1")
 	testImplementation("net.javacrumbs.json-unit:json-unit:4.1.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
-	testImplementation("com.microsoft.playwright:playwright:1.54.0")
+	testImplementation("com.microsoft.playwright:playwright:1.55.0")
 	testImplementation("org.jsoup:jsoup:1.21.2")
 	testImplementation("com.github.stefanbirkner:fake-sftp-server-rule:2.0.1")
 	testImplementation("org.testcontainers:junit-jupiter:1.21.3")
