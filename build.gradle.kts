@@ -8,7 +8,7 @@ buildscript {
 
 plugins {
 	id("org.siouan.frontend-jdk17") version "10.0.0" apply false
-	id("org.springframework.boot") version "3.5.3"
+	id("org.springframework.boot") version "3.5.7"
 	id("io.spring.dependency-management") version "1.1.7"
 	kotlin("jvm") version "2.2.0"
 	kotlin("plugin.spring") version "2.2.20"
